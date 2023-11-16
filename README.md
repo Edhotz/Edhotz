@@ -1,6 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#0000FF&height=120&section=header"/>
+
 
 <div align="center">
+<picture>
+   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://xablcsllktknoduegbwz.supabase.co/storage/v1/object/public/SystemImages&Icons/Logos_Assets/edhotz.png?t=2023-11-16T20%3A37%3A29.202Z">
+</picture>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+mono&pause=1000&random=false&width=435&lines=Hello+I'am+a+Software+Engineer+;+based+in+Angola)](https://git.io/typing-svg)
 
