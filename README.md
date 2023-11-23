@@ -5,7 +5,7 @@
    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://xablcsllktknoduegbwz.supabase.co/storage/v1/object/public/SystemImages&Icons/Logos_Assets/edhotz.png?t=2023-11-16T20%3A37%3A29.202Z">
 </picture>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+mono&pause=1000&random=false&width=435&lines=Hello+I'am+a+Software+Engineer+;+based+in+Angola)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=07F70C&center=true&vCenter=true&multiline=true&random=false&width=600&height=200&lines=Hello+I'am+a+software+engineer;based+in+Luanda%2C+Angola;I'am+Contribuitor+on+Open+Source+Projects;Hackathon+Hunter+%26+Startuper+)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Edhotz&bg_color=000000&color=b0b0b0&line=4c839e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
